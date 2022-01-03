@@ -1,0 +1,18 @@
+{
+	"posts": [
+		{
+			"id": "0",
+			"title": "Glaciers in Iceland",
+			"date": "April 5, 2021",
+			"description": "Some 10% of Iceland is covered by glaciers. They contain ~3,600 km3 of ice, equivalent to a 35-m-thick ice layer spread evenly over the whole country; if melted, it would raise global sea level by 1 cm. This is Iceland’s greatest water storage, corresponding to the precipitation of 20 years. Dynamic in nature, these glaciers are responsive to climate fluctuations and affect their environment profoundly. Also, they lie over active volcanoes; these induce jökulhlaups that can threaten areas of habitation. The country’s glaciers feed its largest rivers and currently provide at least one-third of its total runoff. Since a general glacier recession set in at the end of the 19th century, the largest icecap, Vatnajökull, has decreased by about 10%in volume, contributing 1 mm to the concurrent rise in sea level. During the first decade of the 21st century, ice losses have accelerated, thereby detracting ~3% from the total icecap volume. Typically, radiation provides two-thirds of the melt energy, turbulent fluxes one-third. Volcanic eruptions and continuous geothermal activity at the glacier bed also melts ice, but in the current climate settings this melt has small effect on total mass balance. In all of Iceland’s major icecaps, surges account for a significant portion of total mass transport through the principal outlet glaciers, playing an important role in outlet dynamics and hydrology. Taking the 20th century as a whole, surges contributed at least 10% to the total ice transport to ablation areas of Vatnajökull. Plausible future climate scenarios, coupled with models of mass balance and ice dynamics, suggest that the main icecaps will lose 25% to 35% of their present volume within half a century, leaving only small glaciers on the highest peaks after 150–200 years. Glacier meltwater runoff will peak after ~50 years, then decline to present-day values by 100 years from now.",
+			"author": "John Doe"
+		},
+		{
+			"id": "1",
+			"title": "Volcanism of Iceland",
+			"date": "April 5, 2020",
+			"description": "Iceland experiences frequent volcanic activity, due to its location both on the Mid-Atlantic Ridge, a divergent tectonic plate boundary, and over a hot spot. Nearly thirty volcanoes are known to have erupted in the Holocene epoch; these include Eldgjá, source of the largest lava eruption in human history. Holocene volcanism in Iceland is mostly to be found in the Neovolcanic Zone, comprising the Reykjanes Volcanic Belt (RVB), the West Volcanic Zone (WVZ), the Mid-Iceland Belt (MIB), the East Volcanic Zone (EVZ) and the North Volcanic Zone (NVZ). Two lateral volcanic zones play a minor role: Öræfi Volcanic Belt (ÖVB) and Snæfellsnes Volcanic Belt (SVB). Outside of the main island are the Reykjanes Ridge (RR), as part of the Mid-Atlantic Ridge to the southwest and the Kolbeinsey Ridge (KR) to the north. Two transform zones are connecting these volcano-tectonic zones: the South Iceland Seismic Zone (SISZ) in the south of Iceland and the Tjörnes Transform Zone (TFZ) in the north. The island has around 30 active volcanic systems, comprising each volcano-tectonic fissure systems and many of them also a central volcano (mostly in the form of a stratovolcano, sometimes of a shield volcano with a magma chamber underneath). Thirteen volcanic systems have hosted eruptions since the settlement of Iceland in AD 874. Of these 30 active volcanic systems, the most active is Grímsvötn. Over the past 500 years, Iceland's volcanoes have produced a third of the total global lava output.",
+			"author": "Jane Doe"
+		}
+	]
+}
